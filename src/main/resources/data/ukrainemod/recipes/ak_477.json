@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "345",
+    "  8"
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:comparator"
+    },
+    "3": {
+      "item": "minecraft:blackstone"
+    },
+    "4": {
+      "item": "minecraft:tnt"
+    },
+    "5": {
+      "item": "minecraft:blackstone"
+    },
+    "8": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "result": {
+    "item": "ukrainemod:ak_74",
+    "count": 1
+  }
+}

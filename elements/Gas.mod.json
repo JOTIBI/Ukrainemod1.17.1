@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "vergast",
+    "icon": "gasdose.png",
+    "color": {
+      "value": -16724941,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": true,
+    "isBenefitical": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "GasWennEffektStartetangewendetWird"
+    }
+  }
+}

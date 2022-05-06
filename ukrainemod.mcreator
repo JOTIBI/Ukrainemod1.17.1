@@ -1,0 +1,346 @@
+{
+  "mod_elements": [
+    {
+      "name": "Ak47",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ak_47"
+    },
+    {
+      "name": "Waffen",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffen"
+    },
+    {
+      "name": "Bullet",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bullet"
+    },
+    {
+      "name": "Ak74",
+      "type": "rangeditem",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ak_74"
+    },
+    {
+      "name": "WalterPPk",
+      "type": "rangeditem",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "walter_p_pk"
+    },
+    {
+      "name": "Flammenwerfer",
+      "type": "rangeditem",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flammenwerfer"
+    },
+    {
+      "name": "GasWennEffektStartetangewendetWird",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gas_wenn_effekt_startetangewendet_wird",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gas",
+      "type": "potioneffect",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gas"
+    },
+    {
+      "name": "GassWennMobSpielerMitBlockKollidiert",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gass_wenn_mob_spieler_mit_block_kollidiert",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gass",
+      "type": "fluid",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gass",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Hammer",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer"
+    },
+    {
+      "name": "Bullett",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bullett"
+    },
+    {
+      "name": "Ak477",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ak_477"
+    },
+    {
+      "name": "Walterppkk",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "walterppkk"
+    },
+    {
+      "name": "Gasflasche",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gasflasche"
+    },
+    {
+      "name": "Flammenwerferr",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flammenwerferr"
+    },
+    {
+      "name": "Gasss",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gasss"
+    },
+    {
+      "name": "Gassss",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gassss"
+    },
+    {
+      "name": "Hammerr",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammerr"
+    },
+    {
+      "name": "Waffe1",
+      "type": "achievement",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffe_1"
+    },
+    {
+      "name": "Waffe2",
+      "type": "achievement",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffe_2"
+    },
+    {
+      "name": "Waffe3",
+      "type": "achievement",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waffe_3"
+    },
+    {
+      "name": "Test2",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Test",
+      "type": "gui",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test"
+    },
+    {
+      "name": "RichtigWennderBefehlAusgefuhrtWird",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "richtig_wennder_befehl_ausgefuhrt_wird",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jonathan",
+      "type": "command",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jonathan"
+    },
+    {
+      "name": "Kommanderr",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kommanderr"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "schuss",
+      "files": [
+        "shotpistol"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "flamethrower",
+      "files": [
+        "flamethrower"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "gas",
+      "files": [
+        "gas"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.ukrainemod.bullet": "Bullet",
+      "item.ukrainemod.hammer": "Hammer",
+      "item.ukrainemod.ak_47": "Ak47bild",
+      "item.ukrainemod.gass_bucket": "Gasflasche",
+      "advancements.waffe_2.title": "1. AK47",
+      "subtitles.schuss": "",
+      "advancements.waffe_1.title": "1. Walter PPK",
+      "block.ukrainemod.gass": "Gas",
+      "advancements.waffe_3.descr": "Super!",
+      "item.ukrainemod.ak_74": "Ak 47",
+      "effect.ukrainemod.gas": "vergast",
+      "itemGroup.tabwaffen": "Waffen",
+      "item.ukrainemod.gasflasche": "Gasflasche (crafting)",
+      "item.ukrainemod.walter_p_pk": "Walter PPK",
+      "fluid.ukrainemod.gass": "Gas",
+      "advancements.waffe_1.descr": "Super! Info: Diese Waffe hat Adolf Hitler benutzt.",
+      "item.ukrainemod.kommanderr": "Kommander",
+      "subtitles.gas": "",
+      "advancements.waffe_3.title": "1. Flammenwerfer",
+      "subtitles.flamethrower": "",
+      "advancements.waffe_2.descr": "Super! ",
+      "item.ukrainemod.flammenwerfer": "Flammenwerfer"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ukrainemod",
+    "modName": "UkraineMod",
+    "version": "1.0.0",
+    "author": "jonas, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.ukrainemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

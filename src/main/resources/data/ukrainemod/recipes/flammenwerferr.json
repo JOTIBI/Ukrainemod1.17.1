@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:comparator"
+    },
+    "3": {
+      "item": "minecraft:blackstone"
+    },
+    "4": {
+      "item": "minecraft:tnt"
+    },
+    "5": {
+      "item": "minecraft:blackstone"
+    },
+    "7": {
+      "item": "ukrainemod:gasflasche"
+    },
+    "8": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "result": {
+    "item": "ukrainemod:flammenwerfer",
+    "count": 1
+  }
+}

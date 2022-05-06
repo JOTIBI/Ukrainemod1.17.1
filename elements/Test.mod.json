@@ -1,0 +1,85 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Starte den Angriff",
+          "onClick": {
+            "name": "Test2"
+          },
+          "width": 98,
+          "height": 20,
+          "name": "Starte den Angriff",
+          "x": 162,
+          "y": 165
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Krieg",
+          "color": {
+            "value": -3407872,
+            "falpha": 0.0
+          },
+          "name": "Krieg",
+          "x": 199,
+          "y": 43
+        }
+      },
+      {
+        "type": "checkbox",
+        "data": {
+          "text": "Rüstung",
+          "name": "Rustung",
+          "x": 143,
+          "y": 61
+        }
+      },
+      {
+        "type": "checkbox",
+        "data": {
+          "text": "Waffen",
+          "name": "Waffen",
+          "x": 143,
+          "y": 85
+        }
+      },
+      {
+        "type": "checkbox",
+        "data": {
+          "text": "Essen",
+          "name": "Essen",
+          "x": 143,
+          "y": 133
+        }
+      },
+      {
+        "type": "checkbox",
+        "data": {
+          "text": "Munition",
+          "name": "Munition",
+          "x": 143,
+          "y": 109
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

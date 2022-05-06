@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "ukrainemod:hammer"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "ukrainemod:bullet",
+    "count": 9
+  }
+}

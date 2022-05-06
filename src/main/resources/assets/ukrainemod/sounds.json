@@ -1,0 +1,29 @@
+{
+  "schuss": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ukrainemod:shotpistol",
+        "stream": false
+      }
+    ]
+  },
+  "flamethrower": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ukrainemod:flamethrower",
+        "stream": false
+      }
+    ]
+  },
+  "gas": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "ukrainemod:gas",
+        "stream": false
+      }
+    ]
+  }
+}

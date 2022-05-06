@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "flamethrower",
+    "customModelName": "Normal",
+    "name": "Flammenwerfer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Waffen"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.FLINT"
+    },
+    "shootConstantly": true,
+    "usageCount": 1000,
+    "actionSound": {
+      "value": "CUSTOM:flamethrower"
+    },
+    "hasGlow": false,
+    "animation": "crossbow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.5,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "Blocks.FIRE"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "  5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blackstone"
+    },
+    "1": {
+      "item": "minecraft:tnt"
+    },
+    "2": {
+      "item": "minecraft:blackstone"
+    },
+    "5": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "result": {
+    "item": "ukrainemod:walter_p_pk",
+    "count": 1
+  }
+}
